@@ -66,6 +66,8 @@
 				<Item Name="Tag Expr.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Tag Engine/Tag Expr/Tag Expr.lvclass"/>
 				<Item Name="mupLib.lvlib" Type="Library" URL="/&lt;vilib&gt;/LAVA/muParser/mupLib/mupLib.lvlib"/>
 				<Item Name="libmuparser-lv.dll" Type="Document" URL="/&lt;vilib&gt;/LAVA/muParser/mupLib/libmuparser-lv.dll"/>
+				<Item Name="Tag Engine Core.lvlib" Type="Library" URL="/&lt;vilib&gt;/Tag Engine/Tag Engine Core.lvlib"/>
+				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
